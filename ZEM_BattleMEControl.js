@@ -9,7 +9,7 @@
  *
  * @help
  *
- * This plugin lets the player disable/enable the 
+ * This plugin lets the developer disable/enable the 
  * playing of Victory ME and Defeat ME during battle
  * via switches of their choice.
  * This may be useful if you want the battle bgm to continue
